@@ -92,9 +92,9 @@ setremoveItem(!removeItem)
 <p>{type}</p>
 </div>
 <div className='options'>
-{menuoption?.length && menuoption.map((option) => (
+{menuoption?.length && menuoption.map((option,i) => (
 
-<Card option={option} type={type}/>
+<Card option={option} key={i} type={type}/>
 
 ))}
 </div>

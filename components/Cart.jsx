@@ -85,21 +85,21 @@ console.log(cartItems)
   <p className='cart-title'>your cart</p>
 {cartItems.length ? <div className='your-order'>
  {cartItems.map((meal,i)=>(
-  <>
+  <div key={i}>
   <div style={{display:'flex',alignItems:'center',justifyContent:'space-between'}}>
 <h4>{meal.name}</h4>
 <span >{meal.price} AED</span>
 <AiFillCloseCircle onClick={()=>handleRemove(i)} style={{color:'#777',fontSize:'20px',cursor:"pointer"}}/>
 </div>
 {meal.opt?.map((choice,i)=>(
-  <div className='meal-opt'>
+  <div key={i} className='meal-opt'>
   {meal.addon && i+1 == meal.opt.length ?<p style={{display:'flex' ,justifyContent:'space-between'}}>- {choice} <span >+{meal.addon} AED</span></p> :<p>- {choice}</p>}
   
 </div>
 
 ))}
 {cartItems.length > 1 ? <hr/> :''}
-</>
+</div>
 ))} 
 
 

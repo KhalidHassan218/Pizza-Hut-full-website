@@ -246,7 +246,7 @@ const handleBackClick=()=>{
     <div className='box small' >
 {steps.map((step,index)=>(
 
-<p className={`${index == appear && (index < addedd || index == 0) ?'active':''}${index+1 == steps.length ? ' last':''}${addedd - index > 1 ? ' green': ''}${lastorder && (index == steps.length-1) ? 'green':''} `} onClick={(index < addedd || index == 0) ? ()=>setappear(index) :undefined} key={index}> {index+1}.{step} </p>
+<p  className={`${index == appear && (index < addedd || index == 0) ?'active':''}${index+1 == steps.length ? ' last':''}${addedd - index > 1 ? ' green': ''}${lastorder && (index == steps.length-1) ? 'green':''} `} onClick={(index < addedd || index == 0) ? ()=>setappear(index) :undefined} key={index}> {index+1}.{step} </p>
 
 ))}
 
@@ -258,7 +258,7 @@ const handleBackClick=()=>{
 </div>
 {steps.map((step,index)=>(
 
-<div style={index == appear  && (index < addedd || index == 0) ? {dispaly:'block',padding:'30px'}:{display:'none'} }  className={`order-choose index-${index}`}  >
+<div key={index} style={index == appear  && (index < addedd || index == 0) ? {dispaly:'block',padding:'30px'}:{display:'none'} }  className={`order-choose index-${index}`}  >
 <div className='container'>
 
 
