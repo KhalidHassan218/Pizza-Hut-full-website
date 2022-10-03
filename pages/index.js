@@ -8,9 +8,7 @@ import {BsTwitter} from 'react-icons/bs'
 import {BsYoutube} from 'react-icons/bs'
 import {AiFillCloseCircle} from 'react-icons/ai'
 import Swal from 'sweetalert2'
-
-
-import { Banner, LocationCard ,MobileNav,Slider,Mobilebanner, Footer} from '../components'
+import { Banner, LocationCard ,MobileNav,Slider,Mobilebanner, Footer} from '../components/Index'
 import Link from 'next/link'
 import { Context } from '../context/StateContext'
 
