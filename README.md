@@ -7,6 +7,7 @@ Built 95% Pizza Hut Cloned Website that has different style for each screen and 
 
 Feel you are at the famous pizza hut website but do not try to pay , it is not the real website , stay focused 😅😅😅
 
+✅✅✅ used : NEXTJS , CSS3 , HEADLESS CMS SANITY FOR MENU ITEMS , PAYMENT WITH STRIPEAPI ✅✅✅
 
 
 ## Demo
