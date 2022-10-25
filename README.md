@@ -1,7 +1,7 @@
 # Description
 
 
-Built 95% Pizza Hut Cloned Website that has different style for each screen and has full menu , detecting location , unique loaders , routing , Cart , all meals ,deals and the ability to checkoutu and pay  . 
+Built 95% Pizza Hut Cloned Website that has different style for each screen and has full menu , detecting location , unique loaders , routing , Cart , all meals ,deals and the ability to checkout and pay  . 
 
 ![Thumbnail](https://github.com/KhalidHassan218/Pizza-Hut-full-website/blob/main/public/Pizza%20Hut.png)
 
