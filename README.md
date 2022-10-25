@@ -17,27 +17,27 @@ Live view by clicking the badge: [![Vercel Status](https://img.shields.io/badge/
 You can also clone the project and open it in localhost, or enjoy the preview
 video below instead :smile:
 
-First Video : Showing the Home page where you can pickup your order  or by delivery with detecting your loaction feature using geolocationAPI  
+## First Video : Showing the Home page where you can pickup your order  or by delivery with detecting your loaction feature using geolocationAPI  
 
 https://user-images.githubusercontent.com/101973900/197865311-45e55ffc-aad5-403d-b3db-e7f8bc9b2e1e.mp4
 
-Second Video : Showing the menu page that all pizza Hut items is there , well organized , and how simpile to search for any item 
+## Second Video : Showing the menu page that all pizza Hut items is there , well organized , and how simpile to search for any item 
 
 https://user-images.githubusercontent.com/101973900/197865809-aaa9d1f6-3aa6-43d4-a388-361cb0be09da.mp4
 
-Third Video : Showing the ordering process , in this case I have chosen the My-Box Meal with some Pizzas and added them to cart
+## Third Video : Showing the ordering process , in this case I have chosen the My-Box Meal with some Pizzas and added them to cart
 
 https://user-images.githubusercontent.com/101973900/197866328-440e1daf-0998-4dac-8302-0134186ddeec.mp4
 
-Fourth Video : adding and removing from the cart , heading to checkout 
+## Fourth Video : adding and removing from the cart , heading to checkout 
 
 https://user-images.githubusercontent.com/101973900/197866927-fbbf9c11-ed24-4ba5-83c8-07d386dc3710.mp4
 
-Fifth Video : Payment By StripeApi , CANCEL PAYMENT 
+## Fifth Video : Payment By StripeApi , CANCEL PAYMENT 
 
 https://user-images.githubusercontent.com/101973900/197867110-4bc0c249-8bea-4068-b242-c3a200fe8fbc.mp4
 
-sixth Video : Responsive , Mobile Screen 
+## sixth Video : Responsive , Mobile Screen 
 
 https://user-images.githubusercontent.com/101973900/197867950-2ef4d758-4fd0-41b3-a06a-00f7af48ed68.mp4
 
